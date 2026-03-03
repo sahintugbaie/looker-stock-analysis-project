@@ -5,7 +5,6 @@
 
 ## Kullanılan Araçlar
 - Looker
-- SQL
 - Excel
 
 ## Otomatik Raporlama
@@ -29,4 +28,5 @@ Manuel kontrolü azaltmak ve karar alma süresini hızlandırmak.
 ## Kazanımlar
 - Stok görünürlüğü arttı
 - Karar alma süresi kısaldı
+
 - Manuel hata riski azaldı
