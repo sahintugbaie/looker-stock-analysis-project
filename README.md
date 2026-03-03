@@ -1,7 +1,7 @@
-# Üretim Hattı Stok Görünürlüğü Projesi
+# Atölye Bazlı Otomatik Raporlama ve Bildirim Sistemi
 
 ## Proje Amacı
-Üretim hattı yanında oluşan stok birikimlerini analiz ederek manuel takip sürecini dijitalleştirmek.
+Looker üzerinden atölye bazlı filtrelemeler yaparak ilgili paydaşlara otomatik e-mail ile performans raporlarının iletilmesini sağlayan bir raporlama ve bildirim sistemi geliştirmek
 
 ## Kullanılan Araçlar
 - Looker
@@ -11,22 +11,15 @@
 
 Dashboard haftalık olarak ilgili ekiplere e-posta yoluyla gönderilecek şekilde planlanmıştır.
 
-Gönderim İçeriği:
-- Referans bazlı stok birikimi
-- Lokasyon bazlı toplam miktar
-- Haftalık değişim
-
 Amaç:
 Manuel kontrolü azaltmak ve karar alma süresini hızlandırmak.
 
 ## Yapılan Çalışmalar
-- Stok hareket verilerinin analizi
-- Referans bazlı birikim tespiti
 - Dashboard tasarımı
 - Süreç dijitalleştirme
 
 ## Kazanımlar
 - Stok görünürlüğü arttı
 - Karar alma süresi kısaldı
-
 - Manuel hata riski azaldı
+
